@@ -1,4 +1,66 @@
-#top {
-  background-color: magenta;
-  color: orange;
+#uno {
+  color: white;
+  margin-top: 70px;
+}
+
+#dos {
+  color: white;
+  margin-top: 75px;
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+#tres {
+  color: white;
+  margin-top: 50px;
+}
+
+#cuatro {
+  background-color: darkgoldenrod;
+  color: white;
+  margin-top: 75px;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+#cinco {
+  color: white;
+}
+
+#cincoMiddle {
+  color: white;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+
+#seis {
+  color: black;
+  margin-top: 15px;
+}
+
+#middleCinco {
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+}
+
+.allProbably {
+  font-weight: bold;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("gray.png");
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.orange {
+  margin-top: 30px;
+  background-color: white;
+}
+
+.idk {
+  margin-top: 100px;
 }/*# sourceMappingURL=style.css.map */
